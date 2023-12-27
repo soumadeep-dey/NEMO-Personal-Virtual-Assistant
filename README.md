@@ -4,13 +4,13 @@
 
 **NEMO (Naturally Evolving Model)** is a personal virtual assistant technology based on artificial intelligence and machine learning that receives voice commands and performs various tasks and interacts with users .
 
-## Features -
+## Voice Controlled Features -
 
 1. Get Date and Time Update
 2. Get Weather Forecast Update
 3. Google Search Support
 4. Search and Play on Youtube
-5. Control your browser (Open and Close Tabs)
+5. Control your browser
 6. Open and Close any App or Application
 7. Send Emails
 8. Send Whatsapp message
