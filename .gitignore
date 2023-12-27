@@ -7,3 +7,4 @@ user_pwd.txt
 verified_users.txt
 contacts.txt
 *.json
+*.code-workspace
