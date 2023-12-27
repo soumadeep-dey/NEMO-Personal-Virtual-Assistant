@@ -31,3 +31,7 @@
 * Utility management: time, date, weather, alarm, stopwatch
 * Contact/Email Management
 * E-commerce & Travel Management
+
+## How it works?
+
+![1703717279783](image/README/1703717279783.png)
