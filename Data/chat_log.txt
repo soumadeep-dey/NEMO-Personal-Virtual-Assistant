@@ -1,0 +1,11 @@
+You : who created you?
+Nemo : I was created by Soumadeep Dey.
+You : what is your name 
+Nemo : My name is Nemo.
+You : I want to call you Nemo
+Nemo : You can set my name by saying "set your name to (name)"
+You : set your name to Nemo
+Nemo : Thank you for the new name.
+You : your name is 
+Nemo : Yes, my name is Nemo.
+

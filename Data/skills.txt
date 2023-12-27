@@ -1,0 +1,10 @@
+1.Show Date and time
+2.Control your browser
+3.Open and Close your softwares
+4.Send Emails
+5.Send Whatsapp message
+6.Geo map location and provide direction to places
+7.Schedule your day
+7.Take screenshot
+8.Tell weather forecast and temperature
+9.To-do list

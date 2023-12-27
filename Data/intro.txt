@@ -1,0 +1,3 @@
+I'm Nemo, your virtual personal assistant.
+I was build by Team Code Heads.
+I'm an AI application program who understands natural language voice commands and completes tasks for the you.
