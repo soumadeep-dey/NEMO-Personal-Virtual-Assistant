@@ -4,7 +4,7 @@
 
 **NEMO (Naturally Evolving Model)** is a personal virtual assistant technology based on artificial intelligence and machine learning that receives voice commands and performs various tasks and interacts with users .
 
-## Voice Controlled Features -
+## Voice Controlled Features:
 
 1. Get Date and Time Update
 2. Get Weather Forecast Update
@@ -32,6 +32,6 @@
 * Contact/Email Management
 * E-commerce & Travel Management
 
-## How it works?
-![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
+## How It Works?
 
+![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
