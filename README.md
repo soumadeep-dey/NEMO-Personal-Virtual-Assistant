@@ -49,7 +49,7 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 
 ![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
 
-## Market
+## Market 
 
 ![Tasks](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/c41e4442-3572-479b-b1e4-45f9af094508)
 
@@ -101,8 +101,7 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 12. Create a new database called `NemoVA` and a new collection called `Nemo_DB`
 13. Click on `Import data` and from `DataBase Template` folder, select the provided database template: [DemoDB.json](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/blob/main/DataBase%20Template/DemoDB.json)
 14. Add Admin, User name and password to the template feilds:
-![MongoDb template](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/58e49290-833d-4d7a-a342-330b2c3cc1da)
-
+    ![MongoDb template](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/58e49290-833d-4d7a-a342-330b2c3cc1da)
 15. Create a App Password for sending email from [myaccount.google](https://myaccount.google.com/u/4/apppasswords) and add the Email ID using which the password was created and the password to the template feild provided:
 
     ```
