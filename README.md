@@ -1,10 +1,12 @@
 # NEMO (Voice Controlled Personal Virtual Assistant)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue) ![Frontend](https://img.shields.io/badge/Frontend-Tkinter-fcba03) ![Backend](https://img.shields.io/badge/Backend-MongoDB-darkgreen) ![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_BeautifulSoup_|_PyAutoGUI_|_GeoPy_|_PyWhatKit_|_PyGame_|_PyAudio-red)
+
 #### 🔗 *[NEMO Personal Virtual Assistant](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)*
 
-**NEMO** stands for **Naturally Evolving Model**
+**NEMO** stands for **Naturally Evolving Model.**
 
-NEMO is a personal virtual assistant technology riven by artificial intelligence and machine learning that adeptly responds to voice commands, executes diverse tasks, and engages with users in a human-like manner.
+NEMO is a personal virtual assistant technology driven by artificial intelligence and machine learning that adeptly responds to voice commands, executes diverse tasks, and engages with users in a human-like manner.
 
 ## Scope of the project:
 
