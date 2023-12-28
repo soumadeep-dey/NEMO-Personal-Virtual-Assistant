@@ -33,5 +33,5 @@
 * E-commerce & Travel Management
 
 ## How it works?
+![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
 
-![1703717279783](image/README/1703717279783.png)
