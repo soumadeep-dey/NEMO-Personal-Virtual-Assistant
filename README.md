@@ -6,34 +6,42 @@
 
 **NEMO** stands for **Naturally Evolving Model.**
 
-NEMO is a personal virtual assistant technology driven by artificial intelligence and machine learning that adeptly responds to voice commands, executes diverse tasks, and engages with users in a human-like manner.
+NEMO is a voice controlled personal virtual assistant technology driven by artificial intelligence and machine learning that adeptly responds to voice commands, executes diverse tasks, and engages with users in a human-like manner.
 
 ## Scope of the project:
 
 * Voice Controlled Optimized Human-like Query Resolver using Artificial Intelligence
 * Voice Controlled Application Control
-* Voice Controlled E-messaging: mail, whatsapp
-* Voice Controlled Media Control and Searching
+* Voice Controlled E-messaging: email, whatsapp
+* Voice Controlled Media Control
+* Voice Controlled Web/Website Searching
 * Voice Controlled Direction and Navigation
 * Narrated Notes, Task/Appointment Scheduling
-* Utility management: time, date, weather
+* Utility management: time, date, weather forecast
 * Contact/Email Management
 
 ## Voice Controlled Features:
 
-1. Get Date and Time Update
-2. Get Weather Forecast Update
-3. Google Search Support
-4. Search and Play on Youtube
-5. Control your browser
-6. Open and Close any App or Application
-7. Send Emails
-8. Send Whatsapp message
-9. Get Current Geo Location
-10. Get Direction or Navigation to Places
-11. Capture Screenshot
-12. Schedule your day
-13. Create To-do list
+1. Optimized Human-like Query Resolver using Artificial Intelligence
+2. Interact and Chat in a Human-like mannner
+3. Listen to Jokes
+4. Get Date and Time Update
+5. Get Weather Forecast Update
+6. Google Search Support
+7. Search and Play anything on Youtube
+8. Play any Song
+9. Control your browser
+10. Open and Close any App or Application
+11. Visit any Website (e.g wikepedia, gmail, ) that has .in/.com/.org
+12. Open any Social Media sites (e.g facebook, twitter, instagram)
+13. Send Emails
+14. Send Whatsapp message
+15. Get Current Geo Location
+16. Get Direction or Navigation to Places
+17. Capture Screenshot
+18. Schedule your day
+19. Create To-do list
+20. Email and Contact management
 
 ## How It Works?
 
