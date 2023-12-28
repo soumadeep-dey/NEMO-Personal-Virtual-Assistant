@@ -99,9 +99,10 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 10. Downlaod and install MongoDB Compass from [mongodb.com/products/tools/compass](https://www.mongodb.com/products/tools/compass)
 11. Save and Connect to URI:  `mongodb://localhost:27017`
 12. Create a new database called `NemoVA` and a new collection called `Nemo_DB`
-13. Click on `Import data` and from `DataBase Template` folder, select the provided database template: [DemoDB.json](https://github.com/soumadeep-dey/Movie-Recommendation-System/blob/main/requirements.txt](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/blob/main/DataBase%20Template/DemoDB.json))
+13. Click on `Import data` and from `DataBase Template` folder, select the provided database template: [DemoDB.json](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/blob/main/DataBase%20Template/DemoDB.json)
 14. Add Admin, User name and password to the template feilds:
-![MongoDb template](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/2e669079-534d-45d3-8a9f-77cda07e32b0)
+![MongoDb template](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/58e49290-833d-4d7a-a342-330b2c3cc1da)
+
 15. Create a App Password for sending email from [myaccount.google](https://myaccount.google.com/u/4/apppasswords) and add the Email ID using which the password was created and the password to the template feild provided:
 
     ```
