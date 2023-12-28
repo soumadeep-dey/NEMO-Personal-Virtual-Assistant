@@ -2,7 +2,20 @@
 
 #### 🔗 *[NEMO Personal Virtual Assistant](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)*
 
-**NEMO (Naturally Evolving Model)** is a personal virtual assistant technology based on artificial intelligence and machine learning that receives voice commands and performs various tasks and interacts with users .
+**NEMO** stands for **Naturally Evolving Model**
+
+NEMO is a personal virtual assistant technology riven by artificial intelligence and machine learning that adeptly responds to voice commands, executes diverse tasks, and engages with users in a human-like manner.
+
+## Scope of the project:
+
+* Voice Controlled Optimized Human-like Query Resolver using Artificial Intelligence
+* Voice Controlled Application Control
+* Voice Controlled E-messaging: mail, whatsapp
+* Voice Controlled Media Control and Searching
+* Voice Controlled Direction and Navigation
+* Narrated Notes, Task/Appointment Scheduling
+* Utility management: time, date, weather
+* Contact/Email Management
 
 ## Voice Controlled Features:
 
@@ -19,18 +32,6 @@
 11. Capture Screenshot
 12. Schedule your day
 13. Create To-do list
-
-## Scope of the project:
-
-* Voice Controlled Optimized Query Searching using AI/ML
-* Voice Controlled Application Control
-* Voice Controlled E-messaging: sms, mail, whatsapp
-* Voice Controlled Media Control and Searching
-* Voice Controlled Direction and Navigation
-* Narrated Notes, Task/Appointment Scheduling
-* Utility management: time, date, weather, alarm, stopwatch
-* Contact/Email Management
-* E-commerce & Travel Management
 
 ## How It Works?
 
