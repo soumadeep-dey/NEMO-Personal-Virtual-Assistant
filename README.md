@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Frontend](https://img.shields.io/badge/Frontend-Tkinter-fcba03) ![Backend](https://img.shields.io/badge/Backend-MongoDB-darkgreen) ![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_BeautifulSoup_|_PyAutoGUI_|_GeoPy_|_PyWhatKit_|_PyGame_|_PyAudio-red)
 
-#### 🔗 *[NEMO Personal Virtual Assistant](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)*
+#### 🔗 *[Youtube Video Link](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)*
 
 **NEMO** stands for **Naturally Evolving Model.**
 
