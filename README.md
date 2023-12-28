@@ -1,4 +1,4 @@
-![Nemo_logo](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/ce604a86-1a48-4d72-83ab-cc8bcc907774) # NEMO (Voice Controlled Personal Virtual Assistant)
+# NEMO (Voice Controlled Personal Virtual Assistant)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Frontend](https://img.shields.io/badge/Frontend-Tkinter-fcba03) ![Backend](https://img.shields.io/badge/Backend-MongoDB-darkgreen) ![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_BeautifulSoup_|_PyAutoGUI_|_GeoPy_|_PyWhatKit_|_PyGame_|_PyAudio-red)
 
