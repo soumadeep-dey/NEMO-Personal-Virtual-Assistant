@@ -2,8 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Frontend](https://img.shields.io/badge/Frontend-Tkinter-fcba03) ![Backend](https://img.shields.io/badge/Backend-MongoDB-darkgreen) ![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_BeautifulSoup_|_PyAutoGUI_|_GeoPy_|_PyWhatKit_|_PyGame_|_PyAudio-red)
 
-#### 🔗 *[Live Project Demonstration Video Link](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)
+#### 🔗 [Live Project Demonstration Video Link](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)
 
+![Nemo text logo](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/867b6dec-2e6a-44e4-b564-961c3df39775)
 
 **NEMO** stands for **Naturally Evolving Model.**
 
@@ -47,3 +48,30 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 ## How It Works?
 
 ![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
+
+## Market
+![Tasks](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/c41e4442-3572-479b-b1e4-45f9af094508)
+
+## Business Model
+![Bussiness](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/e0ca1f0c-456c-46f4-bd26-4644a5b18ac5)
+
+## How to run the project locally?
+
+1. Clone or download this repository to your local machine.
+2. `cd` into the cloned folder.
+3. Install virtual environment python package using command:
+
+   ```
+   pip install virtualenv
+   ```
+4. Create a virtual environment using command:
+
+   ```
+   python3 -m venv [Enter Folder name]
+   ```
+5. Activate virtual environment using command:
+
+   ```
+   source [virtual environment name]/bin/activate
+   ```
+
