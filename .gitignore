@@ -7,5 +7,5 @@ email_sender.txt
 user_pwd.txt
 verified_users.txt
 contacts.txt
-*.json
+NemoVA.Nemo_DB.json
 *.code-workspace

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "643edb75e7eb5cf7a573f9e6"
+  },
+  "Adminname": "Enter Admin Name",
+  "Adminpassword": "Set Admin Password"
+},
+{
+  "_id": {
+    "$oid": "643ee7e064e36510903716cd"
+  },
+  "Username": "Enter user name",
+  "Userpassword": "Set user name"
+},
+{
+  "_id": {
+    "$oid": "643f901e88aeee01e9a50871"
+  },
+  "IsAdmin": true,
+  "EmailID": "Enter Sender's Email ID from which you want to send",
+  "Emailpassword": "Create App Password from https://myaccount.google.com/u/4/apppasswords"
+},
+{
+  "_id": {
+    "$oid": "64410cac9e93a40e3eb7b3ff"
+  },
+  "Emailname": "Enter short contact name for easy & quick reference",
+  "EmailID": "Enter email ID"
+},
+{
+  "_id": {
+    "$oid": "64410cac9e93a40e3eb7b400"
+  },
+  "Emailname": "Email Contact 2 and add more below",
+  "EmailID": "Enter email ID"
+}]

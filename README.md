@@ -50,9 +50,11 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 ![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
 
 ## Market
+
 ![Tasks](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/c41e4442-3572-479b-b1e4-45f9af094508)
 
 ## Business Model
+
 ![Bussiness](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/e0ca1f0c-456c-46f4-bd26-4644a5b18ac5)
 
 ## How to run the project locally?
@@ -74,4 +76,58 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
    ```
    source [virtual environment name]/bin/activate
    ```
+6. Install all the libraries mentioned in the [requirements.txt](https://github.com/soumadeep-dey/Movie-Recommendation-System/blob/main/requirements.txt) file with the command:
 
+   ```
+    pip install -r requirements.txt
+   ```
+7. Create a `contacts.text` file inside `Data` folder and paste the provided template inside and edit it accordingly:
+
+   ```
+   {
+        "name1": "+91(whatsapp number)",
+        "name2": "+91(whatsapp number)",
+        "name3": "+91(whatsapp number)"
+    }
+   ```
+8. Get your API key from [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+9. Create a `Api.text` file inside `Data` folder and paste the API key insde the file as follows:
+
+   ```
+   "YOUR_API_KEY"
+   ```
+10. Downlaod and install MongoDB Compass from [mongodb.com/products/tools/compass](https://www.mongodb.com/products/tools/compass)
+11. Save and Connect to URI:  `mongodb://localhost:27017`
+12. Create a new database called `NemoVA` and a new collection called `Nemo_DB`
+13. Click on `Import data` and from `DataBase Template` folder, select the provided database template: `DemoDB.json` ADD File path
+14. Add Admin, User name and password to the template feilds:
+
+    ADD image
+15. Create a App Password for sending email from [myaccount.google](https://myaccount.google.com/u/4/apppasswords) and add the Email ID using which the password was created and the password to the template feild provided:
+
+    ```
+    {
+        "_id": {
+            "$oid": "643f901e88aeee01e9a50871"
+        },
+        "IsAdmin": true,
+        "EmailID": "Enter Sender's Email ID from which you want to send",
+        "Emailpassword": "Create App Password from https://myaccount.google.com/u/4/apppasswords"
+    }
+    ```
+16. Fill up Receiver's Email ID and Contact name and add more using the provided template:
+
+    ```
+    {
+        "_id": {
+            "$oid": "64410cac9e93a40e3eb7b3ff"
+        },
+        "Emailname": "Enter short contact name for easy & quick reference",
+        "EmailID": "Enter email ID"
+    }
+
+    ```
+17. Run the python file: `Nemo_GUI (Run This).py ` ADD file path
+18. Click on the Nemo icon and enjoy your Personal Assitant - **NEMO**
+
+Hurray! That's it. 🥳

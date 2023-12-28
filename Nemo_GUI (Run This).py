@@ -3,6 +3,8 @@ from customtkinter import *
 from PIL import ImageTk, Image
 
 # GUI
+
+
 class Widget:
     def __init__(self):
         self.root = CTk()
