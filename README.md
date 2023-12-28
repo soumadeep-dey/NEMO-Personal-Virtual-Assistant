@@ -4,7 +4,7 @@
 
 #### 🔗 [Live Project Demonstration Video Link](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)
 
-![Nemo text logo](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/867b6dec-2e6a-44e4-b564-961c3df39775)
+![Nemo text logo](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/cbdc154c-ad57-4103-8a77-be89344a8cb0)
 
 **NEMO** stands for **Naturally Evolving Model.**
 
@@ -46,8 +46,8 @@ NEMO is a voice controlled personal virtual assistant technology driven by artif
 20. Email and Contact management
 
 ## How It Works?
+![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/76759d02-a698-4d24-9a4a-a6265b304f15)
 
-![DFD](https://github.com/soumadeep-dey/NEMO-Personal-Virtual-Assistant/assets/111021618/4af9e2c1-1caa-42c4-9a9f-f62c828bc5c6)
 
 ## Market 
 
